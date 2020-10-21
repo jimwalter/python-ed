@@ -4,7 +4,7 @@ print(7 + 3.)  # addition, subtraction, and multiplication of an int and float r
 
 print(7 / 3)  # rounds off to 2.33333335; all division returns a float
 
-print(7 // 3)  #rounds down the result to int => 2
+print(7 // 3)  # FLOOR DIVISION - truncates(rounds down) the result to int => 2 unless a float is in the expression
 
 print(2 ** 3)  # exponent => 8
 
