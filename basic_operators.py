@@ -8,7 +8,14 @@ print(7 // 3)  #rounds down the result to int => 2
 
 print(2 ** 3)  # exponent => 8
 
+print(16 ** (1 / 2))
+print(16**0.5)  # square root
+
 print(9 % 2)  # modulo returns remainder => 1 (great for even/odd)
 
 print(11 % 2 == 1)  # '==' checks for equality => True
+
+'''
+PEMDAS for order of operations
+'''
 
