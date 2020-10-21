@@ -1,6 +1,6 @@
 # +, -, *, //, **, %
 
-print(7 + 3.)  # addition of an int and float returns a float
+print(7 + 3.)  # addition, subtraction, and multiplication of an int and float returns a float
 
 print(7 / 3)  # rounds off to 2.33333335; all division returns a float
 
