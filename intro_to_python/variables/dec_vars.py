@@ -15,3 +15,18 @@ print(a, b, c)
 
 w = x = y = z = 0
 print(w, x, y, z)
+
+x = a, b, c
+print(x)
+
+# Data type methods
+
+name = 'jim'
+age = 29.
+
+print(type(name))
+print(type(age))
+
+# isinstance(arg, datatype)
+print(isinstance(name, str))
+print(isinstance(age, float))
