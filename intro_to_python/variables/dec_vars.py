@@ -22,7 +22,7 @@ print(x)
 # Data type methods
 
 name = 'jim'
-age = 29.
+age = 29
 
 print(type(name))
 print(type(age))
@@ -30,3 +30,5 @@ print(type(age))
 # isinstance(arg, datatype)
 print(isinstance(name, str))
 print(isinstance(age, float))
+
+print(type(age) == int)
